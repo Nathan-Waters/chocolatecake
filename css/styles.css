@@ -1,0 +1,41 @@
+/* body {
+
+  border: solid;
+  width: 960px;
+  margin: auto;
+  background-color: burlywood;
+}
+
+#headerthing {
+  background-repeat: repeat-y;
+}
+
+#headerLeft {
+  float: left;
+}
+
+#headerRight {
+  float: right;
+} */
+
+#list {
+  position: relative;
+  text-align: center;
+  color: rgb(230, 17, 17);
+}
+
+.left {
+  position: absolute;
+  width: 40%;
+  top: 8px;
+  left: 16px;
+  text-align: center;
+}
+
+.right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  width: 40%;
+  text-align: center;
+}
