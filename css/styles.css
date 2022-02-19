@@ -7,16 +7,9 @@
 }
 
 #headerthing {
-  background-repeat: repeat-y;
+  background-repeat: repeat-x;
 }
 
-#headerLeft {
-  float: left;
-}
-
-#headerRight {
-  float: right;
-} */
 
 #list {
   position: relative;
@@ -38,4 +31,4 @@
   right: 16px;
   width: 40%;
   text-align: center;
-}
+} */
